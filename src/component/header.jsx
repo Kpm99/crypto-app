@@ -9,7 +9,7 @@ const Header = () => {
         <Link to="/exchanges">Exchanges</Link>
     </Button>
     <Button variant={"unstyled"} color={"white"}>
-        <Link to="/coins">Coins</Link>
+        <Link to="/">Coins</Link>
     </Button>
    </HStack>
   )
